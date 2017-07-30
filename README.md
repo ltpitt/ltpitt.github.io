@@ -1,6 +1,6 @@
 # ltpitt.github.io
-I'm Davide Nastri and this is simply my personal website
+I'm Davide Nastri and this is simply my personal website source code
 
-Here you can find information about my professional life as a Sysadmin and Developer
+In the site you'll find information about my professional life as an Automation Engineer
 
-You visit http://www.davidenastri.it to see the site in action
+Visit it here: http://www.davidenastri.it or here: http://ltpitt.github.io  
